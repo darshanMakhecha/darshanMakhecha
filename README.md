@@ -44,7 +44,19 @@ I'm Darshan Makhecha 😉, developing next-gen mobile applications with React Na
 
 ### 🤖 AI Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=claude,cursor,openai,perplexity&theme=dark" />
+<p align="center">
+  <img src="https://cdn.simpleicons.org/anthropic/D97757" height="48" alt="Claude" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/cursor/000000" height="48" alt="Cursor" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/openrouter/6467F2" height="48" alt="OpenRouter" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/openai/412991" height="48" alt="OpenAI" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/perplexity/20B8CD" height="48" alt="Perplexity" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/chatgpt/10A37F" height="48" alt="ChatGPT" />
+</p>
 
 
 
