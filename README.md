@@ -58,7 +58,11 @@ Developing next-gen mobile and web applications with React Native and React JS �
 
 ---
 
-## 🚀 What I Build
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🚀 What I Build
 
 - 📱 Cross-platform Mobile Applications
 - 🌐 Modern Web Applications
@@ -67,13 +71,18 @@ Developing next-gen mobile and web applications with React Native and React JS �
 - 🔐 Authentication & Secure Integrations
 - ⚡ Scalable and Reusable UI Components
 
----
+</td>
+<td width="50%" valign="top">
 
-## 🤝 Let's Connect
+### 🤝 Let's Connect
 
-- 🌐 Portfolio: https://darshanm.netlify.app
-- 💼 LinkedIn: https://linkedin.com/in/darshan-makhecha
-- 📧 Email: makhechadarshan26@gmail.com
+- 🌐 [Portfolio](https://darshanm.netlify.app)
+- 💼 [LinkedIn](https://linkedin.com/in/darshan-makhecha)
+- 📧 [Email](mailto:makhechadarshan26@gmail.com)
+
+</td>
+</tr>
+</table>
 
 ---
 
