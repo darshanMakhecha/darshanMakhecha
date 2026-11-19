@@ -51,19 +51,11 @@ Developing next-gen mobile and web applications with React Native and React JS �
   &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/perplexity/20B8CD" height="48" alt="Perplexity" />
 </p>
-
-
-
 </div>
 
 ---
 
-<div align="center">
-<table border="0" cellspacing="0" cellpadding="15">
-<tr>
-<td width="55%" valign="top">
-
-### 🚀 What I Build
+## 🚀 What I Build
 
 - 📱 Cross-platform Mobile Applications
 - 🌐 Modern Web Applications
@@ -72,20 +64,12 @@ Developing next-gen mobile and web applications with React Native and React JS �
 - 🔐 Authentication & Secure Integrations
 - ⚡ Scalable and Reusable UI Components
 
-</td>
-<td width="45%" valign="top">
+---
+## 🤝 Let's Connect
 
-### 🤝 Let's Connect
-
-- 🌐 [Portfolio](https://darshanm.netlify.app)
-- 💼 [LinkedIn](https://linkedin.com/in/darshan-makhecha)
-- 📧 [Email](mailto:makhechadarshan26@gmail.com)
-
-</td>
-</tr>
-</table>
-</div>
-
+- 🌐 Portfolio: https://darshanm.netlify.app
+- 💼 LinkedIn: https://linkedin.com/in/darshan-makhecha
+- 📧 Email: makhechadarshan26@gmail.com
 
 ---
 
