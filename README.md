@@ -2,21 +2,6 @@
 
 I'm Darshan Makhecha 😉, developing next-gen mobile applications with React Native ⚛️ while contributing to the open-source community.
 
-
-<div align="center">
-
-### 🚀 Frontend Developer
-
-**Mobile App Developer | React.js | Next.js | TypeScript**
-
-Building next-generation Mobile & Web Applications with modern technologies ⚛️
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://darshanm.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]((https://linkedin.com/in/darshan-makhecha))
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/darshanMakhecha)
-
-</div>
-
 ---
 
 ## 💫 About Me
@@ -68,20 +53,6 @@ Building next-generation Mobile & Web Applications with modern technologies ⚛�
 - 🔄 Real-time Applications using Socket.IO
 - 🔐 Authentication & Secure Integrations
 - ⚡ Scalable and Reusable UI Components
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=darshanMakhecha&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshanMakhecha&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img width="60%" src="https://streak-stats.demolab.com?user=darshanMakhecha&theme=tokyonight&hide_border=true" />
-
-</div>
 
 ---
 
