@@ -41,6 +41,33 @@ I'm Darshan Makhecha 😉, developing next-gen mobile applications with React Na
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel,netlify" />
 
+
+### 🤖 AI Tools & Platforms
+
+<div align="center">
+
+<a href="https://claude.ai/">
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+</a>
+<a href="https://cursor.com/">
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+</a>
+<a href="https://openrouter.ai/">
+  <img src="https://img.shields.io/badge/OpenRouter-6467F2?style=for-the-badge&logo=openrouter&logoColor=white" />
+</a>
+<a href="https://openai.com/">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+</a>
+<a href="https://www.perplexity.ai/">
+  <img src="https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=white" />
+</a>
+<a href="https://chatgpt.com/">
+  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" />
+</a>
+
+</div>
+
+
 </div>
 
 ---
