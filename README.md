@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> <span> Hey, I'm Darshan Makhecha 😉 </span> </h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> <span> Hey, I'm Darshan Makhecha </span> </h1>
 
 Developing next-gen mobile and web applications with React Native and React JS ⚛️ while contributing to the open-source community.
 
