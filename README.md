@@ -1,6 +1,6 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> <span> Hey, Nice to see you. </span> </h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> <span> Hey, I'm Darshan Makhecha 😉 </span> </h1>
 
-I'm Darshan Makhecha 😉, developing next-gen mobile applications with React Native ⚛️ while contributing to the open-source community.
+Developing next-gen mobile and web applications with React Native and React JS ⚛️ while contributing to the open-source community.
 
 ---
 
@@ -49,13 +49,7 @@ I'm Darshan Makhecha 😉, developing next-gen mobile applications with React Na
   &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/cursor/000000" height="48" alt="Cursor" />
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/openrouter/6467F2" height="48" alt="OpenRouter" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/openai/412991" height="48" alt="OpenAI" />
-  &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/perplexity/20B8CD" height="48" alt="Perplexity" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/chatgpt/10A37F" height="48" alt="ChatGPT" />
 </p>
 
 
