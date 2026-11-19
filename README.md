@@ -58,9 +58,10 @@ Developing next-gen mobile and web applications with React Native and React JS â
 
 ---
 
-<table>
+<div align="center">
+<table border="0" cellspacing="0" cellpadding="15">
 <tr>
-<td width="50%" valign="top">
+<td width="55%" valign="top">
 
 ### ğŸš€ What I Build
 
@@ -72,7 +73,7 @@ Developing next-gen mobile and web applications with React Native and React JS â
 - âš¡ Scalable and Reusable UI Components
 
 </td>
-<td width="50%" valign="top">
+<td width="45%" valign="top">
 
 ### ğŸ¤ Let's Connect
 
@@ -83,6 +84,8 @@ Developing next-gen mobile and web applications with React Native and React JS â
 </td>
 </tr>
 </table>
+</div>
+
 
 ---
 
